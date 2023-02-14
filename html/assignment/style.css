@@ -1,0 +1,55 @@
+.edit{
+    text-align: center;
+    margin-top: 9% ;
+    font-size: x-large;
+    color: aliceblue;
+    border: 50;
+    border-color: black;
+}
+.button{
+    text-align: center;
+    border-radius: 100%;
+}
+.background{
+    background-image: url(/image/17362\ -\ Copy\ -\ Copy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.radius1{
+    border-radius: 35%;
+    background-color: aqua;
+    color: aliceblue;
+}
+.radius2{
+    border-radius: 35%;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+}
+.contact{
+    text-align: center;
+    size: 100px;
+}
+.ss{
+    margin-top: 10%;
+    size: 500%;
+    color: aliceblue;
+}
+.back2{
+    background-image: url(/image/hero.jpg);
+}
+.bu3{
+    background-color: rgb(170, 169, 200);
+}
+.product{
+    text-align: center;
+    background-color: rgb(20, 20, 77);
+    color: aliceblue;
+}
+.cen{
+    text-align: center;
+    margin-top: 20%;
+    color: aliceblue;
+}
+.b{
+    background-color: rgb(126, 63, 63);
+}
