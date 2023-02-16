@@ -1,0 +1,40 @@
+.form-control{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    background-color: rgb(124, 1, 1);
+    color: aliceblue;
+}
+.subheading{
+    font-style: oblique;
+    text-align: center;
+    background-color: rgb(124, 1, 1);
+    color: aliceblue;
+}
+.container{
+    padding-left: 26%;
+    
+}
+.btn btn-primary{
+    cursor: pointer;
+    
+}
+.meaning{
+    margin-left: 15%;
+    padding-top: 5%;
+    color: aliceblue;
+
+}
+.footer{
+    padding-top: 27%; 
+    text-align: center;
+    color: aliceblue;
+}
+.back{
+    background-color: rgb(0, 34, 126);
+}
+.aud{
+    padding: 1%;
+    margin-left: 40%;
+}

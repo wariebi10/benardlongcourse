@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>dictionary app</title>
+        <link rel="stylesheet" href="/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body class="back">
+        <div class="heading">
+            <h1>DICTIONARY APP</h1>
+        <h5 class="subheading">ENGLISH DICTIONARY</h5>
+        </div>
+        
+        <div class="container">
+            <div class="row">
+                <div class="col md-8">
+                    <input type="text" name="" id="input" class="form-control" placeholder="search any word">
+                </div>
+                <div class="col md-4">
+                    <button type="submit" onclick="dictionary()" class="btn btn-primary">check</button>
+                </div>
+            </div>
+        </div>
+        <div>
+            <audio src="" class="aud" id="audio" controls ></audio>
+        </div>
+        <div class="meaning">
+            <h3 id="word"></h3>
+            <p id="defination"></p>
+            <p id="error"></p>
+        </div> 
+        <footer class="footer">
+            copyright&copy my english dictionary 2023
+        </footer>
+        <script src="index.js"></script>
+    </body>
+</html>

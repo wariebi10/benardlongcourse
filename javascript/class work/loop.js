@@ -6,5 +6,5 @@ var weekdays=["sunday",
 "friday",
 "saturday"]
 for(i=0; i<weekdays.length; i=i+1){
-    document.getElementById("display")+=(weekdays[i])
+    document.getElementById("display").innerHTML+=(weekdays[i])
 }

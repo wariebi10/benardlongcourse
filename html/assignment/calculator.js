@@ -6,15 +6,15 @@ function calculate(){
         var sum = Number(box1) + Number(box2)
         document.getElementById("answer").innerHTML=sum
     }
-    if (operator =="-"){
+    else if (operator =="-"){
         var sum = Number(box1) - Number(box2)
         document.getElementById("answer").innerHTML=sum
     }
-    if (operator =="*"){
+    else if (operator =="*"){
         var sum = Number(box1) * Number(box2)
         document.getElementById("answer").innerHTML=sum
     }
-    if (operator =="/"){
+    else if (operator =="/"){
         var sum = Number(box1) / Number(box2)
         document.getElementById("answer").innerHTML=sum
     }
